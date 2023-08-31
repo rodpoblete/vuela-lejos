@@ -1,0 +1,26 @@
+body {
+  background-color: #ffffff; /* Color de fondo secundario */
+}
+.navbar {
+  background-color: #1b0088; /* Color de fondo primario */
+  color: #ffffff; /* Color del texto */
+}
+.navbar-toggler-icon {
+  background-color: #ffffff; /* Color del ícono del menú */
+}
+.navbar-nav .nav-link {
+  color: #ffffff; /* Color de los enlaces en la barra de navegación */
+}
+.navbar-brand {
+  color: #ffffff; /* Color del título del sitio */
+}
+.footer {
+  background-color: #1b0088; /* Color de fondo primario para el footer */
+  color: #ffffff; /* Color del texto en el footer */
+  padding: 20px 0;
+}
+
+.carousel-inner img {
+  max-height: 400px;
+  object-fit: cover;
+}
